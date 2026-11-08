@@ -154,8 +154,8 @@ Linux, Unix, Windows
 
 ## Connect with Me
 
-- GitHub: [Add your GitHub profile]
-- LinkedIn: [Add your LinkedIn profile]
+- GitHub: https://github.com/bahramsheibani
+- LinkedIn: https://linkedin.com/in/bahram-s-a582703
 
 > Update the GitHub and LinkedIn links with your actual profile URLs before publishing.
 
