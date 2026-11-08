@@ -1,27 +1,35 @@
 # Bahram Sheibani
 
-Senior Software Engineer | Java, Microservices, Cloud & Financial Systems
+Graduate Student | Master of Science in Computer Science (Machine Learning) at Boston University
+Software Engineer | Java, Microservices, Cloud, Financial Systems, and Applied ML
 
 <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java" alt="Java" />
 <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=spring" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Microservices-Architecture-1F77B4?style=for-the-badge&logo=apache" alt="Microservices" />
-<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/ML-Machine_Learning-FF6F61?style=for-the-badge" alt="Machine Learning" />
 
 ## About Me
 
-I am a software engineer with 10+ years of experience in software development, system design, and enterprise application engineering. My background includes Java/J2EE, microservices, Spring Boot, Spring Cloud, SOA, financial systems, and regulatory reporting solutions.
+I am a software engineer and graduate student at Boston University pursuing a Master of Science in Computer Science with a focus on Machine Learning. With over 10 years of experience in software engineering, system design, and enterprise application development, I bring a strong foundation in Java, microservices, cloud systems, and data-driven solutions.
 
-I have worked in fast-paced environments across capital markets, banking, telecom, and enterprise software, with a strong focus on designing scalable, reliable, and high-performance systems.
+My professional background spans capital markets, banking, telecom, and enterprise software, where I have designed and delivered scalable systems for regulatory reporting, trade processing, collateral management, and high-volume financial workflows. I am now expanding my work at the intersection of software engineering and machine learning to build intelligent, reliable, and impactful systems.
+
+## Education
+
+- Master of Science in Computer Science (Machine Learning), Boston University, Boston, MA
+- Bachelor of Science in Software Engineering, Shahid Beheshti University, Tehran, Iran
 
 ## Core Strengths
 
-- Java, J2EE, Spring, Spring Boot, Spring Cloud, Microservices
+- Java, J2EE, Spring, Spring Boot, Spring Cloud, and microservices
 - REST and SOAP web services
-- Oracle, SQL Server, MySQL, DB2, MongoDB
-- Messaging systems: Solace, Kafka, WebSphere MQ, JMS
-- Agile methodologies and enterprise architecture
-- Performance tuning, troubleshooting, and system design
-- Mentoring junior developers and leading technical delivery
+- Cloud-based and distributed system design
+- Oracle, SQL Server, MySQL, DB2, and MongoDB
+- Messaging platforms: Kafka, Solace, WebSphere MQ, and JMS
+- Agile delivery, architecture, and technical leadership
+- Performance tuning, troubleshooting, and system optimization
+- Machine learning, data-driven problem solving, and AI-enabled applications
 
 ## Professional Experience
 
@@ -29,10 +37,10 @@ I have worked in fast-paced environments across capital markets, banking, teleco
 TD Securities, Toronto, ON  
 April 2023 - Present
 
-- Designed and implemented multiple microservices for regulatory trade reporting and collateral management.
-- Built solutions using Java 21, Spring Boot, Spring Cloud, AngularJS, Oracle DB, MongoDB, Solace, and Kafka.
+- Designed and implemented microservices for regulatory trade reporting and collateral management.
+- Built systems using Java 21, Spring Boot, Spring Cloud, Oracle DB, MongoDB, Solace, and Kafka.
 - Developed REST APIs and messaging-driven services for high-volume financial processing.
-- Mentored junior developers and improved maintainability of existing services.
+- Mentored junior developers and improved service maintainability and quality.
 
 ### Senior Software Consultant
 RBC Capital Markets, Toronto, ON  
@@ -56,13 +64,13 @@ July 2016 - April 2018
 
 - Developed regulatory reporting applications in an Agile environment.
 - Migrated legacy Java components to Java 8 and modern microservice architecture.
-- Improved system performance using Java streams, multithreading, and memory profiling.
+- Improved application performance using Java streams, multithreading, and memory profiling.
 
 ## Domain Experience
 
 - Regulatory Trade Reporting
 - Capital Markets (Global Fixed Income)
-- Algo Trading
+- Algorithmic Trading
 - Retail Banking
 - Telecommunications
 - Enterprise SOA and Service Integration
@@ -70,7 +78,7 @@ July 2016 - April 2018
 ## Technical Skills
 
 ### Programming Languages
-Java 8, JavaScript, SQL, PL/SQL, XML, XSLT, JQuery
+Java, JavaScript, Python, SQL, PL/SQL, XML, XSLT, JQuery
 
 ### Technologies & Frameworks
 J2EE, Spring, Spring Cloud, Spring Boot, Microservices, JDBC, JMS, JAXP, JAXB, JUnit, JSON, Jasper, Hibernate, JPA
@@ -89,7 +97,7 @@ Eclipse, Spring Tool Suite, IntelliJ, Unix, Linux, Windows
 
 ## Objective
 
-To apply my software engineering and financial systems experience to build scalable, reliable, and business-focused technology solutions that help organizations deliver measurable value.
+To combine strong software engineering fundamentals with machine learning expertise to build scalable, reliable, and intelligent solutions that solve real-world business and technical challenges.
 
 ## Contact
 
@@ -99,10 +107,10 @@ To apply my software engineering and financial systems experience to build scala
 
 ## Connect with Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- GitHub: [Add your GitHub profile]
+- LinkedIn: [Add your LinkedIn profile]
 
-> Note: Replace the GitHub and LinkedIn links with your actual profile URLs before publishing.
+> Update the GitHub and LinkedIn links with your actual profile URLs before publishing.
 
 ---
 
