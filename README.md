@@ -21,19 +21,6 @@ My background spans capital markets, banking, telecom, government, and enterpris
 - Master of Science in Computer Science (Machine Learning), Boston University, Boston, MA
 - Bachelor of Science (B.Sc.) in Software Engineering, Shahid Beheshti University, Tehran, Iran
 
-## Reflection and Future Growth
-
-### Reflection
-
-The revision of my resume reflects a deliberate effort to connect my long-standing professional experience in enterprise software engineering with my current academic trajectory in machine learning. Over the course of my career, I have worked extensively in enterprise architecture, distributed systems, financial technology, and the modernization of mission-critical software environments. Rather than presenting these areas as unrelated or disconnected, the updated profile frames them as a coherent progression: a career rooted in building reliable, scalable, and high-impact systems, now expanding toward intelligent, data-driven technologies.
-
-The primary change in emphasis was to align my professional identity with both my technical depth and my future academic and research direction. My experience in cloud-native microservices, regulatory systems, capital markets infrastructure, and event-driven architectures provides a strong foundation for work at the intersection of software engineering and machine learning. This is particularly relevant in domains where reliability, performance, and operational resilience are essential, such as financial systems, digital infrastructure, and large-scale enterprise modernization. By highlighting certifications, domain expertise, and leadership in modernization initiatives, the resume now communicates a credible and strategic professional profile rather than a narrowly technology-specific one.
-
-### Future Growth
-
-The most appropriate direction for continued portfolio development is the integration of enterprise systems expertise with applied machine learning and AI-driven software engineering. My background in building large-scale, high-availability systems offers a strong basis for developing intelligent solutions that improve operational decision-making, forecasting, automation, anomaly detection, and system optimization. I intend to focus my future portfolio on projects that bridge software architecture with practical machine learning applications in financial, cloud, and enterprise technology contexts.
-
-This portfolio direction should include work in cloud-native ML systems, real-time data pipelines, predictive analytics, and microservice-based architectures that demonstrate how machine learning can be embedded into production environments responsibly and effectively. A strong portfolio would combine technical rigor with business relevance by showcasing solutions that improve performance, reduce operational risk, and support intelligent automation in complex systems. This trajectory aligns with both my professional foundation and my academic development, and it represents a clear path toward contributing to the next generation of reliable, intelligent software systems.
 
 ## Certifications
 
